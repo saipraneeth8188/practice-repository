@@ -1,0 +1,3 @@
+shellscript --> lambda function to trigger when someone pushes an object to S3 object
+use github APIs to push sshkeys, use PAT ( classic token )
+automate a file creation using shellscript
